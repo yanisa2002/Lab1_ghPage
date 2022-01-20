@@ -1,3 +1,5 @@
-.detail {
+body {
+    margin: 0;
+    background: darkcyan;
     text-align: center;
-}
+  }
